@@ -41,6 +41,10 @@ and success criteria  of our project.
 
 ## Final result 
 
+#### Data Modelling
+---
+<img src="https://github.com/sharikcodes/Sales_insights/blob/main/Data%20Modelling.png" width="550" class="center">
+
 #### Initial Dashboard
 
 ---
